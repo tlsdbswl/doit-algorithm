@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;doit-algorithm&apos;" deleteContents="true" description="Delete resource &apos;doit-algorithm&apos;" element1="/doit-algorithm" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1604032316300"/>
+</session>
