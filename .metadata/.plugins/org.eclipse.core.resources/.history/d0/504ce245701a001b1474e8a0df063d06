@@ -1,0 +1,18 @@
+package chap01;
+
+import java.util.Scanner;
+
+public class Difference_01_10 {
+
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		while{
+			
+		
+		if(b>a) {
+			System.out.println("a보다 큰 값을 입력하세요 ");
+		}
+		}
+		
+	}
+}

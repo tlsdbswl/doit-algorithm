@@ -17,7 +17,7 @@ public class Difference_01_10 {
 			if(b>a) {
 				break;
 			}
-			System.out.println("a보다 큰 값을 입력");
+			System.out.println("a보다 큰 값을 입");
 		}
 		System.out.println("b-a="+(b-a));
 	}

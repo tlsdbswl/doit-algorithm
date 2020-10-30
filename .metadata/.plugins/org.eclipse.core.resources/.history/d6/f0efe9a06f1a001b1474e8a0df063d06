@@ -1,0 +1,14 @@
+package chap01;
+
+import java.util.Scanner;
+
+public class Difference_01_10 {
+
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		System.out.println("숫자 입력");
+		System.out.print("a "+scan.nextInt());
+		System.out.print("b "+scan.nextInt());
+		
+	}
+}

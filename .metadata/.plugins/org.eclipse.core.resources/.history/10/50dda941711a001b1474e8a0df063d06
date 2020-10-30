@@ -14,11 +14,11 @@ public class Difference_01_10 {
 			System.out.print("b ");
 			b = scan.nextInt();
 			
-			if(b>a) {
-				break;
+			if(b<a) {
+				System.out.println("a보다 큰 값을 입력하세요 ");
 			}
-			System.out.println("a보다 큰 값을 입력");
+			break;
 		}
-		System.out.println("b-a="+(b-a));
+		System.out.println("b-a"+(b-a));
 	}
 }
