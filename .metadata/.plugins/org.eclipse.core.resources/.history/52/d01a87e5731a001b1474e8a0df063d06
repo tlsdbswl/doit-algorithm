@@ -1,0 +1,15 @@
+package chap01;
+
+public class StarPira_01_16 {
+
+	public static void main(String[] args) {
+		StarPira_01_16 s = new StarPira_01_16();
+		s.spira(n);
+		
+	}
+	
+	void spira(int n) {
+		
+	}
+
+}

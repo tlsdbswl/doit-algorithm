@@ -1,0 +1,13 @@
+package chap01;
+
+public class StarPira_01_16 {
+
+	public static void main(String[] args) {
+
+	}
+	
+	void spira(int n) {
+		
+	}
+
+}
